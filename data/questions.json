@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "question": "Theo chủ nghĩa duy vật lịch sử, sản xuất vật chất có vai trò như thế nào đối với đời sống xã hội?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chỉ đáp ứng nhu cầu vật chất của con người."
+      },
+      {
+        "key": "B",
+        "text": "Là cơ sở của sự tồn tại và phát triển xã hội."
+      },
+      {
+        "key": "C",
+        "text": "Chỉ quyết định sự phát triển của chính trị."
+      },
+      {
+        "key": "D",
+        "text": "Là hoạt động không ảnh hưởng đến các quan hệ xã hội."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Theo học thuyết hình thái kinh tế - xã hội, lực lượng sản xuất bao gồm những yếu tố cơ bản nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Người lao động và tư liệu sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Quan hệ sở hữu và quan hệ phân phối."
+      },
+      {
+        "key": "C",
+        "text": "Cơ sở hạ tầng và kiến trúc thượng tầng."
+      },
+      {
+        "key": "D",
+        "text": "Nhà nước và các tổ chức chính trị - xã hội."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Cấu trúc của cơ sở hạ tầng bao gồm những bộ phận nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ sản xuất thống trị, quan hệ sản xuất tàn dư và quan hệ sản xuất mầm mống."
+      },
+      {
+        "key": "B",
+        "text": "Lực lượng sản xuất, tư liệu sản xuất và người lao động."
+      },
+      {
+        "key": "C",
+        "text": "Ý thức chính trị, pháp quyền và đạo đức."
+      },
+      {
+        "key": "D",
+        "text": "Nhà nước, đảng phái và các tổ chức xã hội."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Theo quy luật quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng, yếu tố nào giữ vai trò quyết định?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kiến trúc thượng tầng quyết định cơ sở hạ tầng."
+      },
+      {
+        "key": "B",
+        "text": "Cơ sở hạ tầng quyết định kiến trúc thượng tầng."
+      },
+      {
+        "key": "C",
+        "text": "Hai yếu tố quyết định ngang nhau."
+      },
+      {
+        "key": "D",
+        "text": "Nhà nước quyết định toàn bộ nền kinh tế."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Hiện nay, Việt Nam đẩy mạnh ứng dụng trí tuệ nhân tạo, tự động hóa và công nghệ 4.0 vào sản xuất. Điều này thể hiện vai trò nào của khoa học đối với lực lượng sản xuất?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Khoa học chỉ hỗ trợ hoạt động quản lý."
+      },
+      {
+        "key": "B",
+        "text": "Khoa học trở thành lực lượng sản xuất trực tiếp."
+      },
+      {
+        "key": "C",
+        "text": "Khoa học thay thế hoàn toàn người lao động."
+      },
+      {
+        "key": "D",
+        "text": "Khoa học không ảnh hưởng đến năng suất lao động."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Trong ba mặt của quan hệ sản xuất, mặt nào giữ vai trò quan trọng nhất và quy định hai mặt còn lại?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ trong tổ chức và quản lý sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Quan hệ trong phân phối sản phẩm."
+      },
+      {
+        "key": "C",
+        "text": "Quan hệ sở hữu đối với tư liệu sản xuất."
+      },
+      {
+        "key": "D",
+        "text": "Quan hệ giữa người lao động và công cụ sản xuất."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Một quốc gia thay đổi cơ cấu kinh tế, từ đó các chính sách chính trị và pháp luật cũng được điều chỉnh cho phù hợp với tình hình mới. Tình huống này thể hiện mối quan hệ nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kiến trúc thượng tầng quyết định cơ sở hạ tầng."
+      },
+      {
+        "key": "B",
+        "text": "Cơ sở hạ tầng quyết định kiến trúc thượng tầng."
+      },
+      {
+        "key": "C",
+        "text": "Lực lượng sản xuất không liên quan đến quan hệ sản xuất."
+      },
+      {
+        "key": "D",
+        "text": "Kiến trúc thượng tầng không chịu sự tác động của kinh tế."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Theo quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, mối quan hệ giữa hai yếu tố này được thể hiện như thế nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ sản xuất quyết định hoàn toàn lực lượng sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Lực lượng sản xuất quyết định quan hệ sản xuất, quan hệ sản xuất tác động trở lại lực lượng sản xuất."
+      },
+      {
+        "key": "C",
+        "text": "Hai yếu tố tồn tại độc lập, không tác động lẫn nhau."
+      },
+      {
+        "key": "D",
+        "text": "Lực lượng sản xuất luôn phụ thuộc vào quan hệ sản xuất."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Việt Nam lựa chọn con đường quá độ lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa. Điều này thể hiện nội dung nào trong sự phát triển của các hình thái kinh tế - xã hội?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sự phát triển của các hình thái kinh tế - xã hội luôn phải tuần tự qua tất cả các hình thái."
+      },
+      {
+        "key": "B",
+        "text": "Sự phát triển của các hình thái kinh tế - xã hội chỉ phụ thuộc vào ý muốn chủ quan."
+      },
+      {
+        "key": "C",
+        "text": "Sự phát triển của các hình thái kinh tế - xã hội có thể diễn ra tuần tự hoặc bỏ qua một hay vài hình thái nhất định."
+      },
+      {
+        "key": "D",
+        "text": "Các hình thái kinh tế - xã hội không có mối liên hệ với nhau."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Trong kiến trúc thượng tầng, yếu tố nào có tác động mạnh nhất và trực tiếp nhất đến cơ sở hạ tầng?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tôn giáo."
+      },
+      {
+        "key": "B",
+        "text": "Nghệ thuật."
+      },
+      {
+        "key": "C",
+        "text": "Triết học."
+      },
+      {
+        "key": "D",
+        "text": "Nhà nước."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Phương thức sản xuất là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cách thức con người tiến hành quá trình sản xuất vật chất trong những giai đoạn lịch sử nhất định."
+      },
+      {
+        "key": "B",
+        "text": "Cách thức phân phối sản phẩm trong xã hội."
+      },
+      {
+        "key": "C",
+        "text": "Toàn bộ hoạt động chính trị của con người."
+      },
+      {
+        "key": "D",
+        "text": "Quá trình trao đổi hàng hóa giữa các quốc gia."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Trong lực lượng sản xuất, yếu tố nào giữ vai trò quyết định đối với sự phát triển của lực lượng sản xuất?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Công cụ sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Đối tượng lao động."
+      },
+      {
+        "key": "C",
+        "text": "Người lao động."
+      },
+      {
+        "key": "D",
+        "text": "Tư liệu sản xuất."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Quan hệ sản xuất bao gồm bao nhiêu mặt cơ bản?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hai mặt."
+      },
+      {
+        "key": "B",
+        "text": "Ba mặt."
+      },
+      {
+        "key": "C",
+        "text": "Bốn mặt."
+      },
+      {
+        "key": "D",
+        "text": "Năm mặt."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Hiện nay, Việt Nam thực hiện nhiều hình thức sở hữu như sở hữu nhà nước, tập thể, tư nhân và hỗn hợp. Điều này thể hiện nội dung nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Xây dựng quan hệ sản xuất phù hợp với trình độ phát triển khác nhau của lực lượng sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Xóa bỏ hoàn toàn các hình thức sở hữu tư nhân."
+      },
+      {
+        "key": "C",
+        "text": "Chỉ phát triển kinh tế nhà nước."
+      },
+      {
+        "key": "D",
+        "text": "Không cần quan tâm đến quan hệ sản xuất."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Năm 1986, Việt Nam thực hiện đường lối đổi mới, chuyển từ cơ chế kế hoạch hóa tập trung sang kinh tế thị trường có sự quản lý của Nhà nước. Điều này thể hiện điều gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kiến trúc thượng tầng không có tác động đến kinh tế."
+      },
+      {
+        "key": "B",
+        "text": "Sự thay đổi đường lối, chính sách phù hợp có thể thúc đẩy kinh tế phát triển."
+      },
+      {
+        "key": "C",
+        "text": "Chính trị hoàn toàn quyết định mọi hoạt động kinh tế."
+      },
+      {
+        "key": "D",
+        "text": "Kinh tế không cần sự quản lý của Nhà nước."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Cơ sở hạ tầng là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội."
+      },
+      {
+        "key": "B",
+        "text": "Toàn bộ hệ thống chính trị và pháp luật."
+      },
+      {
+        "key": "C",
+        "text": "Hệ thống các hình thái ý thức xã hội."
+      },
+      {
+        "key": "D",
+        "text": "Toàn bộ hoạt động sản xuất tinh thần."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Kiến trúc thượng tầng bao gồm những yếu tố nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Người lao động và tư liệu sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Các hình thái ý thức xã hội và thiết chế chính trị – xã hội tương ứng."
+      },
+      {
+        "key": "C",
+        "text": "Quan hệ sở hữu và quan hệ phân phối."
+      },
+      {
+        "key": "D",
+        "text": "Công cụ lao động và đối tượng lao động."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Sau Cách mạng tháng Tám năm 1945, Nhà nước Việt Nam Dân chủ Cộng hòa ra đời, hệ thống pháp luật mới được xây dựng. Đây là biểu hiện của nội dung nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cơ sở hạ tầng thay đổi kéo theo sự thay đổi của kiến trúc thượng tầng."
+      },
+      {
+        "key": "B",
+        "text": "Kiến trúc thượng tầng không phụ thuộc vào cơ sở hạ tầng."
+      },
+      {
+        "key": "C",
+        "text": "Lực lượng sản xuất không ảnh hưởng đến xã hội."
+      },
+      {
+        "key": "D",
+        "text": "Quan hệ phân phối quyết định hệ thống pháp luật."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Một doanh nghiệp đầu tư máy móc hiện đại nhưng người lao động chưa có đủ trình độ và kỹ năng để sử dụng hiệu quả, cho thấy điều gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chỉ cần máy móc hiện đại là đủ để nâng cao năng suất."
+      },
+      {
+        "key": "B",
+        "text": "Người lao động và tư liệu sản xuất cần được kết hợp để phát huy sức sản xuất."
+      },
+      {
+        "key": "C",
+        "text": "Người lao động không phải là yếu tố của lực lượng sản xuất."
+      },
+      {
+        "key": "D",
+        "text": "Công cụ sản xuất không ảnh hưởng đến năng suất lao động."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Khi quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất sẽ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kìm hãm sản xuất phát triển."
+      },
+      {
+        "key": "B",
+        "text": "Thúc đẩy lực lượng sản xuất phát triển."
+      },
+      {
+        "key": "C",
+        "text": "Làm mất đi vai trò của người lao động."
+      },
+      {
+        "key": "D",
+        "text": "Làm cho sản xuất ngừng phát triển."
+      }
+    ],
+    "answer": "B"
+  }
+]
